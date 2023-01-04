@@ -1,10 +1,14 @@
 # finder files
 .DS_Store
 
+local.properties
+.idea
+test_result*
+
 # Compiled class file
 *.class
 
-# Log file
+# parser.source.Log file
 *.log
 
 #vs code
